@@ -1,0 +1,7 @@
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb

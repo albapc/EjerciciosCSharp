@@ -1,0 +1,57 @@
+1. Crear una aplicación de consola que calcule la división de 2 números enteros y que gestione las diferentes excepciones que se puedan
+dar con los requerimientos. Personalizar el mensaje en caso de divisiones por cero.
+
+2. Crear una aplicación de consola que, ante un entero introducido, nos indique si es par o no. 
+
+3. Crear una aplicación de consola donde, indicando un número del 1 al 12, nos indique el nombre del mes del año, 
+siendo 1 - Enero hasta 12 - Diciembre.
+
+4. Crear una aplicación de consola que muestre una cadena de texto en vertical:
+
+Ejemplo: 
+
+Cadena
+C
+a
+d
+e
+n
+a
+
+5. Crear una aplicación de consola donde definamos un objeto Vehículo, cuyos atributos sean Marca (cadena), Modelo (cadena),
+ Kilómetros (entero), Combustible (Diésel, Gasolina o Eléctrico) y un método que, facilitando una fecha de matriculación (dd/mm/aaaa) 
+nos devuelva la edad del coche en años (sirve tanto la edad en entero como en decimal). Muestra en pantalla los diferentes atributos
+del objeto. Utiliza tanto la opción de generar el objeto mediante un constructor sobrecargado, asignando los valores a los atributos,
+como asignándolos de manera individual.
+
+6.Crear una aplicación de consola que almacene 10 puntos tridimensionales (cada punto con su eje X, Y y Z) y, una vez introducidos, los liste.
+
+
+7. Crear una aplicación de consola que nos permita añadir una lista de personas donde almacenemos su nombre, apellidos, 
+edad y fecha de nacimiento. El programa deberá preguntar, primero, el número de personas que vamos a añadir a la lista. Después, 
+solicitará los datos de cada persona y, finalmente, listará los datos de cada una.
+
+8. Utilizando el objeto personas del ejercicio anterior, simula una aplicación donde se introduzcan personas en un túnel y se muestre
+el orden de salida. ¿Y si fuese una entrada en un vagón del metro, considerando que los primeros que entran son los últimos que salen?.
+
+9. Crea una aplicación de consola donde se definan peces y diferentes especies de peces.Por defecto, todos los peces tendrán un nombre común, un nombre científico, un número de aletas, el medio
+(marino o fluvial), si viven o no de manera gregaria (en bancos) y un ámbito geográfico (Europa, Asia...).Se podrá calcular su peso en base a su edad y longitud (edad (años)x longitud (cm) x 20 gramos)
+
+Las diferentes especies podrán ser, salmónidos (trucha, salmón o reo) de los que se podrá definir un medio nuevo (marino, fluvial o mixto) y se podrá calcular su peso 
+en base a su longitud, mediante la fórmula (longitud (centímetros) x 10 gramos), Selaquimorfos (tiburones) que almacenarán el número de dientes, el color, si son o no peligrosos
+para el ser humano y su velocidad en millas/hora. En base a la velocidad, podremos calcular su desplazamiento diario. Por último, están los perciformes (lubina, dorada o sargo) que almacenarán su color, su dieta (carnívoros u omnívoros) y se podrá obtener,
+en base a su color, su hábitat, siendo los de color rojo de arrecife, los de color verde de costa y los de color plateado pelágicos. Para cualquier otro color, se considerarán abisales.
+
+Una vez definidos los peces y sus especies, crea diferentes especies de cada tipo (los nombres los puedes inventar si no los sabes, simplemente trata de que sea descriptivo para la especie) introduciendo su información por pantalla, almacena la información y, 
+una vez creados varios tipos, por pantalla.
+
+10. Define una interfaz para los animales, donde se definan una serie de métodos en común como respirar, comer y dormir. Implementa una clase para las aves y 
+para los mamíferos que utilicen dicha interfaz. Asígnale un par de atributos diferentes a dichas clases.
+
+
+
+
+
+ 
+ 
+

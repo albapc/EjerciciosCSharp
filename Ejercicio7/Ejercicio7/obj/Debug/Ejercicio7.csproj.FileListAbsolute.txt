@@ -1,0 +1,7 @@
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csprojAssemblyReference.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.pdb

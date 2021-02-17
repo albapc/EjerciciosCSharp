@@ -1,0 +1,6 @@
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\alba.perezcesar\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
